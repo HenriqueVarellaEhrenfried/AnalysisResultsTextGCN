@@ -10,6 +10,11 @@ if len(sys.argv) < 2:
 PATH = sys.argv[1]
 DATASETS = ["MR"]
 
+def pretty_print(df):
+    # more options can be specified also
+    with pd.option_context('display.max_rows', None, 'display.max_columns', None):  
+        print(df) 
+
 def get_metrics(file_path, info):
     with open(file_path) as f:
         text = f.readlines()
@@ -26,10 +31,10 @@ def get_metrics(file_path, info):
                 }
             return (test_result)
 
-
 def calculate_metrics(df):
     # TODO: Implment this method
     # Mean, Variation, Standart Deviation
+    # Student T-test, Friedman test
     print(df)
 
 all_results = []
@@ -43,11 +48,16 @@ for dataset in DATASETS:
             # print(info)
             all_results.append(get_metrics(mypath+"/"+f, info))
 
-df = pd.DataFrame(data = all_results).sort_values(by=['experiment','run'])
+df = pd.DataFrame(data = all_results)
 
 df["cost"] = pd.to_numeric(df["cost"])
 df["accuracy"] = pd.to_numeric(df["accuracy"])
 df["experiment"] = pd.to_numeric(df["experiment"])
 df["run"] = pd.to_numeric(df["run"])
 
-calculate_metrics(df)
+df = df.sort_values(by=['experiment','run','dataset'])
+df = df.reset_index(drop=True)
+
+# calculate_metrics(df)
+print(df)
+
