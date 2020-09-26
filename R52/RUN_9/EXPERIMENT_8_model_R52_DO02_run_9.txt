@@ -1,0 +1,270 @@
+(5879, 300) (5879, 52) (2568, 300) (2568, 52) (15424, 300) (15424, 52)
+17992
+  (0, 7394)	6.686038286434835
+  (0, 7579)	9.544554181485928
+  (0, 8435)	1.1089956803115342
+  (0, 9187)	1.4870258028519843
+  (0, 9412)	3.4992585948383703
+  (0, 9715)	8.687769937101656
+  (0, 9722)	2.6831883644039674
+  (0, 10649)	2.428921084638427
+  (0, 10738)	0.09818243264420962
+  (0, 10836)	3.739323224804961
+  (0, 11937)	2.330442047497012
+  (0, 12542)	3.606641355876964
+  (0, 12888)	3.02851632033319
+  (0, 13067)	4.35029811356276
+  (0, 13073)	2.3388242585209373
+  (0, 13236)	2.5284796776801453
+  (0, 13573)	2.03853163893571
+  (0, 13630)	1.7178555995344762
+  (1, 6773)	4.6162200221746765
+  (1, 7352)	2.48534630686257
+  (1, 7394)	10.029057429652251
+  (1, 8228)	3.3602874789180293
+  (1, 8236)	11.429664621685571
+  (1, 8707)	2.7241125791123393
+  (1, 9657)	22.280113863795975
+  :	:
+  (17991, 6619)	5.00515582833163
+  (17991, 6688)	2.5465482720906456
+  (17991, 6690)	4.132423070796605
+  (17991, 8122)	2.991346301610737
+  (17991, 8579)	0.5254001830155217
+  (17991, 9087)	5.452468046375295
+  (17991, 9104)	3.2299256610547857
+  (17991, 10380)	2.6292767444269107
+  (17991, 10738)	0.09818243264420962
+  (17991, 11118)	2.473542891137685
+  (17991, 12137)	2.8079312509954106
+  (17991, 12172)	4.065283689759292
+  (17991, 12422)	4.74658184003792
+  (17991, 12449)	6.0249872391466255
+  (17991, 12450)	5.798847182840153
+  (17991, 12762)	4.203374806768889
+  (17991, 13101)	2.2203469947570738
+  (17991, 13183)	4.231390464459422
+  (17991, 13186)	2.330442047497012
+  (17991, 13283)	1.2562305119428314
+  (17991, 14115)	2.001260244138478
+  (17991, 14362)	23.189205994155152
+  (17991, 14446)	2.588071774882391
+  (17991, 15151)	2.9569343040130085
+  (17991, 15162)	2.6687238299637284
+(17992, 17992)
+(17992, 17992)
+17992
+Tensor("graphconvolution_2/SparseTensorDenseMatMul/SparseTensorDenseMatMul:0", shape=(None, 52), dtype=float32)
+Epoch: 0001 train_loss= 3.95124 train_acc= 0.00357 val_loss= 3.89725 val_acc= 0.64625 time= 0.44157
+Epoch: 0002 train_loss= 3.89784 train_acc= 0.64654 val_loss= 3.79253 val_acc= 0.64625 time= 0.16800
+Epoch: 0003 train_loss= 3.79535 train_acc= 0.64688 val_loss= 3.63029 val_acc= 0.64625 time= 0.16600
+Epoch: 0004 train_loss= 3.63148 train_acc= 0.64024 val_loss= 3.41129 val_acc= 0.64625 time= 0.18101
+Epoch: 0005 train_loss= 3.41849 train_acc= 0.63446 val_loss= 3.14685 val_acc= 0.64319 time= 0.17120
+Epoch: 0006 train_loss= 3.15244 train_acc= 0.62562 val_loss= 2.86389 val_acc= 0.62787 time= 0.16975
+Epoch: 0007 train_loss= 2.87422 train_acc= 0.61303 val_loss= 2.59822 val_acc= 0.61103 time= 0.18952
+Epoch: 0008 train_loss= 2.60163 train_acc= 0.60401 val_loss= 2.38908 val_acc= 0.59571 time= 0.16800
+Epoch: 0009 train_loss= 2.39165 train_acc= 0.59738 val_loss= 2.26100 val_acc= 0.55896 time= 0.16707
+Epoch: 0010 train_loss= 2.25750 train_acc= 0.54363 val_loss= 2.19714 val_acc= 0.51149 time= 0.16756
+Epoch: 0011 train_loss= 2.19463 train_acc= 0.48801 val_loss= 2.15776 val_acc= 0.47626 time= 0.16808
+Epoch: 0012 train_loss= 2.17118 train_acc= 0.45059 val_loss= 2.11228 val_acc= 0.46708 time= 0.16904
+Epoch: 0013 train_loss= 2.12204 train_acc= 0.44072 val_loss= 2.04792 val_acc= 0.46708 time= 0.18403
+Epoch: 0014 train_loss= 2.06737 train_acc= 0.44157 val_loss= 1.96562 val_acc= 0.47779 time= 0.17000
+Epoch: 0015 train_loss= 1.98501 train_acc= 0.45127 val_loss= 1.87503 val_acc= 0.50536 time= 0.18900
+Epoch: 0016 train_loss= 1.90058 train_acc= 0.49294 val_loss= 1.78928 val_acc= 0.57274 time= 0.16900
+Epoch: 0017 train_loss= 1.81475 train_acc= 0.56404 val_loss= 1.71747 val_acc= 0.63553 time= 0.16704
+Epoch: 0018 train_loss= 1.73772 train_acc= 0.62324 val_loss= 1.65928 val_acc= 0.66616 time= 0.16900
+Epoch: 0019 train_loss= 1.68778 train_acc= 0.64756 val_loss= 1.60775 val_acc= 0.67841 time= 0.19000
+Epoch: 0020 train_loss= 1.63353 train_acc= 0.65811 val_loss= 1.55668 val_acc= 0.67841 time= 0.16800
+Epoch: 0021 train_loss= 1.58228 train_acc= 0.66100 val_loss= 1.50420 val_acc= 0.68300 time= 0.16700
+Epoch: 0022 train_loss= 1.52678 train_acc= 0.66270 val_loss= 1.45186 val_acc= 0.68453 time= 0.17200
+Epoch: 0023 train_loss= 1.47264 train_acc= 0.66253 val_loss= 1.40215 val_acc= 0.68300 time= 0.17000
+Epoch: 0024 train_loss= 1.42560 train_acc= 0.66644 val_loss= 1.35670 val_acc= 0.68760 time= 0.19700
+Epoch: 0025 train_loss= 1.37768 train_acc= 0.67137 val_loss= 1.31610 val_acc= 0.69832 time= 0.16800
+Epoch: 0026 train_loss= 1.33621 train_acc= 0.67699 val_loss= 1.27980 val_acc= 0.70291 time= 0.16603
+Epoch: 0027 train_loss= 1.29548 train_acc= 0.68600 val_loss= 1.24689 val_acc= 0.70597 time= 0.18305
+Epoch: 0028 train_loss= 1.26365 train_acc= 0.69570 val_loss= 1.21630 val_acc= 0.71363 time= 0.16721
+Epoch: 0029 train_loss= 1.23427 train_acc= 0.70522 val_loss= 1.18711 val_acc= 0.72435 time= 0.16710
+Epoch: 0030 train_loss= 1.20229 train_acc= 0.71713 val_loss= 1.15863 val_acc= 0.72588 time= 0.19229
+Epoch: 0031 train_loss= 1.17108 train_acc= 0.72989 val_loss= 1.13033 val_acc= 0.72894 time= 0.17096
+Epoch: 0032 train_loss= 1.13788 train_acc= 0.73805 val_loss= 1.10193 val_acc= 0.73354 time= 0.18000
+Epoch: 0033 train_loss= 1.11031 train_acc= 0.74775 val_loss= 1.07345 val_acc= 0.74273 time= 0.17000
+Epoch: 0034 train_loss= 1.07977 train_acc= 0.75404 val_loss= 1.04519 val_acc= 0.75345 time= 0.17103
+Epoch: 0035 train_loss= 1.04899 train_acc= 0.76323 val_loss= 1.01747 val_acc= 0.75957 time= 0.16997
+Epoch: 0036 train_loss= 1.01990 train_acc= 0.76782 val_loss= 0.99056 val_acc= 0.76723 time= 0.17903
+Epoch: 0037 train_loss= 0.99371 train_acc= 0.77343 val_loss= 0.96462 val_acc= 0.77182 time= 0.16654
+Epoch: 0038 train_loss= 0.96745 train_acc= 0.78381 val_loss= 0.93965 val_acc= 0.77795 time= 0.18698
+Epoch: 0039 train_loss= 0.93967 train_acc= 0.79061 val_loss= 0.91540 val_acc= 0.79020 time= 0.16800
+Epoch: 0040 train_loss= 0.91651 train_acc= 0.80014 val_loss= 0.89166 val_acc= 0.80858 time= 0.17129
+Epoch: 0041 train_loss= 0.89357 train_acc= 0.81153 val_loss= 0.86829 val_acc= 0.81623 time= 0.17400
+Epoch: 0042 train_loss= 0.86873 train_acc= 0.81868 val_loss= 0.84525 val_acc= 0.82083 time= 0.19302
+Epoch: 0043 train_loss= 0.84483 train_acc= 0.82735 val_loss= 0.82255 val_acc= 0.82389 time= 0.16796
+Epoch: 0044 train_loss= 0.81764 train_acc= 0.82990 val_loss= 0.80021 val_acc= 0.82848 time= 0.17904
+Epoch: 0045 train_loss= 0.79552 train_acc= 0.83450 val_loss= 0.77813 val_acc= 0.83155 time= 0.16634
+Epoch: 0046 train_loss= 0.77027 train_acc= 0.83875 val_loss= 0.75633 val_acc= 0.83767 time= 0.16600
+Epoch: 0047 train_loss= 0.74747 train_acc= 0.84453 val_loss= 0.73487 val_acc= 0.84227 time= 0.16703
+Epoch: 0048 train_loss= 0.72455 train_acc= 0.84793 val_loss= 0.71381 val_acc= 0.84533 time= 0.16900
+Epoch: 0049 train_loss= 0.70094 train_acc= 0.85185 val_loss= 0.69318 val_acc= 0.85145 time= 0.17000
+Epoch: 0050 train_loss= 0.68297 train_acc= 0.85610 val_loss= 0.67299 val_acc= 0.85605 time= 0.19300
+Epoch: 0051 train_loss= 0.66217 train_acc= 0.86052 val_loss= 0.65339 val_acc= 0.85911 time= 0.17000
+Epoch: 0052 train_loss= 0.63833 train_acc= 0.86579 val_loss= 0.63432 val_acc= 0.86524 time= 0.16805
+Epoch: 0053 train_loss= 0.61970 train_acc= 0.86937 val_loss= 0.61582 val_acc= 0.86524 time= 0.18207
+Epoch: 0054 train_loss= 0.59955 train_acc= 0.87345 val_loss= 0.59782 val_acc= 0.86677 time= 0.16600
+Epoch: 0055 train_loss= 0.58113 train_acc= 0.87413 val_loss= 0.58035 val_acc= 0.86677 time= 0.16800
+Epoch: 0056 train_loss= 0.56181 train_acc= 0.87855 val_loss= 0.56373 val_acc= 0.86983 time= 0.16700
+Epoch: 0057 train_loss= 0.54393 train_acc= 0.88263 val_loss= 0.54785 val_acc= 0.87136 time= 0.16867
+Epoch: 0058 train_loss= 0.52621 train_acc= 0.88467 val_loss= 0.53257 val_acc= 0.87289 time= 0.17048
+Epoch: 0059 train_loss= 0.51158 train_acc= 0.88655 val_loss= 0.51802 val_acc= 0.87902 time= 0.17771
+Epoch: 0060 train_loss= 0.49349 train_acc= 0.88910 val_loss= 0.50385 val_acc= 0.87749 time= 0.16803
+Epoch: 0061 train_loss= 0.47793 train_acc= 0.89267 val_loss= 0.49006 val_acc= 0.87902 time= 0.18600
+Epoch: 0062 train_loss= 0.46463 train_acc= 0.89641 val_loss= 0.47663 val_acc= 0.88208 time= 0.16622
+Epoch: 0063 train_loss= 0.44321 train_acc= 0.90168 val_loss= 0.46360 val_acc= 0.88515 time= 0.16699
+Epoch: 0064 train_loss= 0.43009 train_acc= 0.90662 val_loss= 0.45118 val_acc= 0.89127 time= 0.17000
+Epoch: 0065 train_loss= 0.41809 train_acc= 0.90730 val_loss= 0.43921 val_acc= 0.89740 time= 0.18500
+Epoch: 0066 train_loss= 0.40321 train_acc= 0.91308 val_loss= 0.42758 val_acc= 0.89893 time= 0.17097
+Epoch: 0067 train_loss= 0.39061 train_acc= 0.91699 val_loss= 0.41637 val_acc= 0.89893 time= 0.17703
+Epoch: 0068 train_loss= 0.37615 train_acc= 0.91886 val_loss= 0.40579 val_acc= 0.90046 time= 0.17000
+Epoch: 0069 train_loss= 0.36406 train_acc= 0.92482 val_loss= 0.39599 val_acc= 0.90199 time= 0.16600
+Epoch: 0070 train_loss= 0.35582 train_acc= 0.92465 val_loss= 0.38697 val_acc= 0.90199 time= 0.19000
+Epoch: 0071 train_loss= 0.34173 train_acc= 0.93162 val_loss= 0.37880 val_acc= 0.90199 time= 0.16700
+Epoch: 0072 train_loss= 0.33204 train_acc= 0.93077 val_loss= 0.37114 val_acc= 0.90199 time= 0.16704
+Epoch: 0073 train_loss= 0.31979 train_acc= 0.93553 val_loss= 0.36415 val_acc= 0.90352 time= 0.18200
+Epoch: 0074 train_loss= 0.30832 train_acc= 0.93825 val_loss= 0.35734 val_acc= 0.90352 time= 0.17097
+Epoch: 0075 train_loss= 0.29802 train_acc= 0.93894 val_loss= 0.35068 val_acc= 0.90199 time= 0.17200
+Epoch: 0076 train_loss= 0.28897 train_acc= 0.94013 val_loss= 0.34399 val_acc= 0.90812 time= 0.19303
+Epoch: 0077 train_loss= 0.28135 train_acc= 0.94268 val_loss= 0.33719 val_acc= 0.90812 time= 0.16700
+Epoch: 0078 train_loss= 0.27289 train_acc= 0.94710 val_loss= 0.33073 val_acc= 0.90812 time= 0.17000
+Epoch: 0079 train_loss= 0.26408 train_acc= 0.94761 val_loss= 0.32464 val_acc= 0.91118 time= 0.17700
+Epoch: 0080 train_loss= 0.25343 train_acc= 0.95016 val_loss= 0.31901 val_acc= 0.91271 time= 0.16711
+Epoch: 0081 train_loss= 0.24606 train_acc= 0.95339 val_loss= 0.31360 val_acc= 0.91271 time= 0.16702
+Epoch: 0082 train_loss= 0.23599 train_acc= 0.95407 val_loss= 0.30831 val_acc= 0.91118 time= 0.19800
+Epoch: 0083 train_loss= 0.23034 train_acc= 0.95646 val_loss= 0.30363 val_acc= 0.91271 time= 0.17000
+Epoch: 0084 train_loss= 0.22190 train_acc= 0.95850 val_loss= 0.29963 val_acc= 0.91730 time= 0.18800
+Epoch: 0085 train_loss= 0.21298 train_acc= 0.95935 val_loss= 0.29608 val_acc= 0.91730 time= 0.17000
+Epoch: 0086 train_loss= 0.20751 train_acc= 0.96037 val_loss= 0.29307 val_acc= 0.91730 time= 0.16702
+Epoch: 0087 train_loss= 0.20046 train_acc= 0.96173 val_loss= 0.29003 val_acc= 0.91730 time= 0.16803
+Epoch: 0088 train_loss= 0.19274 train_acc= 0.96020 val_loss= 0.28670 val_acc= 0.91884 time= 0.18897
+Epoch: 0089 train_loss= 0.18712 train_acc= 0.96530 val_loss= 0.28364 val_acc= 0.91730 time= 0.16792
+Epoch: 0090 train_loss= 0.18031 train_acc= 0.96615 val_loss= 0.28031 val_acc= 0.91884 time= 0.16540
+Epoch: 0091 train_loss= 0.17442 train_acc= 0.96768 val_loss= 0.27674 val_acc= 0.92190 time= 0.17027
+Epoch: 0092 train_loss= 0.16783 train_acc= 0.97142 val_loss= 0.27326 val_acc= 0.92190 time= 0.17000
+Epoch: 0093 train_loss= 0.16577 train_acc= 0.96802 val_loss= 0.26950 val_acc= 0.92343 time= 0.19517
+Epoch: 0094 train_loss= 0.15727 train_acc= 0.97159 val_loss= 0.26627 val_acc= 0.92496 time= 0.16700
+Epoch: 0095 train_loss= 0.15201 train_acc= 0.97227 val_loss= 0.26276 val_acc= 0.92649 time= 0.16700
+Epoch: 0096 train_loss= 0.14532 train_acc= 0.97346 val_loss= 0.25984 val_acc= 0.92496 time= 0.18500
+Epoch: 0097 train_loss= 0.14059 train_acc= 0.97432 val_loss= 0.25713 val_acc= 0.92496 time= 0.16700
+Epoch: 0098 train_loss= 0.13821 train_acc= 0.97398 val_loss= 0.25484 val_acc= 0.92496 time= 0.16700
+Epoch: 0099 train_loss= 0.13334 train_acc= 0.97755 val_loss= 0.25352 val_acc= 0.92496 time= 0.19400
+Epoch: 0100 train_loss= 0.12845 train_acc= 0.97755 val_loss= 0.25272 val_acc= 0.92802 time= 0.17600
+Epoch: 0101 train_loss= 0.12499 train_acc= 0.97772 val_loss= 0.25200 val_acc= 0.92956 time= 0.18601
+Epoch: 0102 train_loss= 0.12015 train_acc= 0.97772 val_loss= 0.25008 val_acc= 0.93109 time= 0.16957
+Epoch: 0103 train_loss= 0.11539 train_acc= 0.98095 val_loss= 0.24781 val_acc= 0.93415 time= 0.16800
+Epoch: 0104 train_loss= 0.11433 train_acc= 0.97959 val_loss= 0.24542 val_acc= 0.93568 time= 0.17000
+Epoch: 0105 train_loss= 0.10757 train_acc= 0.98180 val_loss= 0.24374 val_acc= 0.93568 time= 0.18801
+Epoch: 0106 train_loss= 0.10518 train_acc= 0.98180 val_loss= 0.24225 val_acc= 0.93568 time= 0.16803
+Epoch: 0107 train_loss= 0.10179 train_acc= 0.98180 val_loss= 0.24113 val_acc= 0.93721 time= 0.17200
+Epoch: 0108 train_loss= 0.09815 train_acc= 0.98299 val_loss= 0.23962 val_acc= 0.93721 time= 0.17000
+Epoch: 0109 train_loss= 0.09433 train_acc= 0.98401 val_loss= 0.23918 val_acc= 0.93721 time= 0.17200
+Epoch: 0110 train_loss= 0.09040 train_acc= 0.98401 val_loss= 0.23854 val_acc= 0.93568 time= 0.17352
+Epoch: 0111 train_loss= 0.08824 train_acc= 0.98588 val_loss= 0.23761 val_acc= 0.93568 time= 0.19200
+Epoch: 0112 train_loss= 0.08615 train_acc= 0.98588 val_loss= 0.23596 val_acc= 0.93721 time= 0.16600
+Epoch: 0113 train_loss= 0.08389 train_acc= 0.98639 val_loss= 0.23407 val_acc= 0.93874 time= 0.18300
+Epoch: 0114 train_loss= 0.08190 train_acc= 0.98605 val_loss= 0.23210 val_acc= 0.94028 time= 0.16700
+Epoch: 0115 train_loss= 0.07782 train_acc= 0.98707 val_loss= 0.23065 val_acc= 0.94028 time= 0.16900
+Epoch: 0116 train_loss= 0.07629 train_acc= 0.98826 val_loss= 0.22984 val_acc= 0.94028 time= 0.17400
+Epoch: 0117 train_loss= 0.07437 train_acc= 0.98792 val_loss= 0.23018 val_acc= 0.93568 time= 0.17027
+Epoch: 0118 train_loss= 0.07159 train_acc= 0.98945 val_loss= 0.23096 val_acc= 0.93568 time= 0.17300
+Epoch: 0119 train_loss= 0.07066 train_acc= 0.98877 val_loss= 0.23104 val_acc= 0.93568 time= 0.18300
+Epoch: 0120 train_loss= 0.06789 train_acc= 0.98996 val_loss= 0.23010 val_acc= 0.93568 time= 0.16900
+Epoch: 0121 train_loss= 0.06486 train_acc= 0.99064 val_loss= 0.22926 val_acc= 0.93721 time= 0.16900
+Epoch: 0122 train_loss= 0.06380 train_acc= 0.99013 val_loss= 0.22789 val_acc= 0.93874 time= 0.19305
+Epoch: 0123 train_loss= 0.06195 train_acc= 0.99047 val_loss= 0.22666 val_acc= 0.94028 time= 0.16595
+Epoch: 0124 train_loss= 0.06146 train_acc= 0.99081 val_loss= 0.22668 val_acc= 0.94028 time= 0.18200
+Epoch: 0125 train_loss= 0.05907 train_acc= 0.99269 val_loss= 0.22645 val_acc= 0.94028 time= 0.16800
+Epoch: 0126 train_loss= 0.05619 train_acc= 0.99286 val_loss= 0.22554 val_acc= 0.94181 time= 0.17178
+Epoch: 0127 train_loss= 0.05449 train_acc= 0.99133 val_loss= 0.22595 val_acc= 0.94028 time= 0.19600
+Epoch: 0128 train_loss= 0.05449 train_acc= 0.99252 val_loss= 0.22657 val_acc= 0.94028 time= 0.17000
+Epoch: 0129 train_loss= 0.05289 train_acc= 0.99184 val_loss= 0.22732 val_acc= 0.93874 time= 0.16718
+Epoch: 0130 train_loss= 0.05130 train_acc= 0.99218 val_loss= 0.22789 val_acc= 0.93874 time= 0.16800
+Early stopping...
+Optimization Finished!
+Test set results: cost= 0.26060 accuracy= 0.93731 time= 0.07304
+17992
+Test Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000         8
+           1     0.5000    0.1667    0.2500         6
+           2     1.0000    1.0000    1.0000         1
+           3     0.7849    0.9733    0.8690        75
+           4     1.0000    1.0000    1.0000         9
+           5     0.8316    0.9080    0.8681        87
+           6     0.9200    0.9200    0.9200        25
+           7     0.7857    0.8462    0.8148        13
+           8     0.8462    1.0000    0.9167        11
+           9     1.0000    0.6667    0.8000         9
+          10     0.8800    0.6111    0.7213        36
+          11     1.0000    0.9167    0.9565        12
+          12     0.8333    0.9917    0.9057       121
+          13     1.0000    0.7895    0.8824        19
+          14     0.8571    0.8571    0.8571        28
+          15     1.0000    0.7500    0.8571         4
+          16     0.0000    0.0000    0.0000         4
+          17     1.0000    0.3333    0.5000         3
+          18     0.9000    0.9000    0.9000        10
+          19     1.0000    1.0000    1.0000         2
+          20     1.0000    0.4444    0.6154         9
+          21     0.9048    0.9500    0.9268        20
+          22     0.5000    0.6000    0.5455         5
+          23     0.0000    0.0000    0.0000         1
+          24     0.8750    0.8235    0.8485        17
+          25     1.0000    0.8667    0.9286        15
+          26     0.0000    0.0000    0.0000         1
+          27     0.9091    0.8333    0.8696        12
+          28     1.0000    0.7273    0.8421        11
+          29     0.9668    0.9612    0.9640       696
+          30     1.0000    1.0000    1.0000        22
+          31     1.0000    1.0000    1.0000         3
+          32     0.7500    0.9000    0.8182        10
+          33     1.0000    0.6667    0.8000         3
+          34     0.5000    1.0000    0.6667         1
+          35     0.8250    0.8148    0.8199        81
+          36     1.0000    0.4167    0.5882        12
+          37     1.0000    0.7500    0.8571         4
+          38     0.0000    0.0000    0.0000         1
+          39     0.9755    0.9926    0.9840      1083
+          40     1.0000    1.0000    1.0000         5
+          41     0.0000    0.0000    0.0000         2
+          42     0.8000    0.8889    0.8421         9
+          43     1.0000    0.6667    0.8000         3
+          44     0.9000    0.7500    0.8182        12
+          45     0.0000    0.0000    0.0000         6
+          46     1.0000    0.2857    0.4444         7
+          47     0.9333    0.9333    0.9333        15
+          48     1.0000    0.8889    0.9412         9
+          49     0.0000    0.0000    0.0000         1
+          50     1.0000    0.2000    0.3333         5
+          51     0.7500    0.7500    0.7500         4
+
+    accuracy                         0.9373      2568
+   macro avg     0.7832    0.6873    0.7107      2568
+weighted avg     0.9357    0.9373    0.9324      2568
+
+Macro average Test Precision, Recall and F1-Score...
+(0.783236879842257, 0.6873276246709055, 0.7106889253252615, None)
+Micro average Test Precision, Recall and F1-Score...
+(0.9373052959501558, 0.9373052959501558, 0.9373052959501558, None)
+embeddings:
+8892 6532 2568
+[[-0.08639102  0.13630296 -0.03249737 ...  0.02954922  0.0121667
+   0.9672716 ]
+ [ 0.16745616 -0.01139794  0.09713677 ...  0.46905303  0.27269846
+   0.40138817]
+ [ 0.15005162  0.16914181  0.06922186 ...  0.40234748  0.14795677
+   0.1590293 ]
+ ...
+ [ 0.02189142  0.0368843   0.11142235 ...  0.29220176  0.4410533
+   0.05648743]
+ [ 0.08183456  0.17450681  0.05810918 ...  0.1150285   0.34843525
+   0.15865432]
+ [ 0.24763645  0.13033275  0.22919655 ...  0.506402    0.34212148
+   0.30485407]]
