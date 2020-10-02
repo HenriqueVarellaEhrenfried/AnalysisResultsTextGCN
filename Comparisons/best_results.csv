@@ -1,0 +1,5 @@
+Dataset;Experiment;Experiment Name;Experiment Mean;Experiment Std;Original Mean;Original Std;T Test Compared Results;Alfa;T-value;P-value;Level of Confidence (%);Higher Mean;Difference (Experiment-Original);Equal Variance?
+MR;14;DO08;0.7612;0.0009;0.7674;0.002;Reject H0;0.03;8.8244;8.29908070704608e-07;99.9999;Original;-0.0062;False
+Ohsumed;7;DO01;0.6886;0.0018;0.6836;0.0056;Reject H0;0.03;-2.692;0.02131074972234111;97.8689;Experiment;0.005;False
+R8;4;LR001;0.9736;0.0007;0.9707;0.001;Reject H0;0.03;-7.4745;6.3605348735724e-07;99.9999;Experiment;0.0029;True
+R52;2;ES1000;0.9383;0.0013;0.9356;0.0018;Reject H0;0.03;-3.8574;0.0011538071369839142;99.8846;Experiment;0.0027;True
