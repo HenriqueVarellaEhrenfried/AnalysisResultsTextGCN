@@ -1,2 +1,0 @@
-EXP 17 e 18 - Ohsumed - Rodar no CPU, deu erro na GPU
-EXP 18 - R52 - Rodar no CPU, , deu erro na GPU
