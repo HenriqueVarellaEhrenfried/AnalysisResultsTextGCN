@@ -30,8 +30,3 @@ requirements.txt - `All libraries used`
 >**Important:** Experiments Ohsumed (exp 17 and 18) and R52 (exp 18) were executed in a CPU instead of a GPU. The GPU available to experiment did not have enough VRAM to run them.
 
 
-Example to run
-
-```bash
-python CreateCSV.py "~/Resultados_TextGCN/"
-```
