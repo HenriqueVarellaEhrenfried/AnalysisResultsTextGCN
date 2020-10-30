@@ -33,5 +33,5 @@ requirements.txt - `All libraries used`
 Example to run
 
 ```bash
-python CreateCSV.py "/mnt/b/Documentos/Doutorado/Resultados_TextGCN/"
+python CreateCSV.py "~/Resultados_TextGCN/"
 ```
